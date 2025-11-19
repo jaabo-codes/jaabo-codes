@@ -2,23 +2,15 @@
 <h3 align="center">A passionate Frontend Developer | React.Js | Next.Js | Vue.Js | TailwindCss</h3>
 
 <p align="left"> <a href="(https://x.com/Mustajaaab)" target="blank"><img src="https://img.shields.io/twitter/follow/Mustajaaab?logo=twitter&style=for-the-badge" alt="Mustajaaab" /></a> </p>
+- 📫 How to reach me **nabi.mustajab@gmail.com**
 
-- 🔭 I’m currently working on [World Unicorn](https://writerly.ai/app/curious-about-ai?gad=1&gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSXIQ09QYjy1PIUzhsSkFOBG_obtd_gWLrn9QS9wG0QRjIib1KfIIG4aAmONEALw_wcB)
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/irfanUllahBaig](https://www.behance.net/irfanUllahBaig)
-
-- 📝 I regularly write articles on [https://medium.com/@IrfanUlahBaig](https://medium.com/@IrfanUlahBaig)
-
-- 📫 How to reach me **uxirfan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/irfanullahbaig/](https://www.linkedin.com/in/irfanullahbaig/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/mustajab-ullah/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_irfanullahbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_irfanullahbaig" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irfanullahbaig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irfanullahbaig/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/uxirfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/uxirfan" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/uxirfanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/uxirfanbaig" height="30" width="40" /></a>
+<a href="(https://x.com/Mustajaaab)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mustajaaab" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/mustajab-ullah/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustajab-ullah/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/j4abo._.69?igsh=cWE4YmxjNmdqNmli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/j4abo._.69?igsh=cWE4YmxjNmdqNmli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
