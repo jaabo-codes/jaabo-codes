@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustajab Ullah Baig</h1>
 <h3 align="center">A passionate Frontend Developer | React.Js | Next.Js | Vue.Js | TailwindCss</h3>
 
-<p align="left"> <a href="https://twitter.com/_irfanullahbaig" target="blank"><img src="https://img.shields.io/twitter/follow/_irfanullahbaig?logo=twitter&style=for-the-badge" alt="_irfanullahbaig" /></a> </p>
+<p align="left"> <a href="(https://x.com/Mustajaaab)" target="blank"><img src="https://img.shields.io/twitter/follow/Mustajaaab?logo=twitter&style=for-the-badge" alt="Mustajaaab" /></a> </p>
 
 - 🔭 I’m currently working on [World Unicorn](https://writerly.ai/app/curious-about-ai?gad=1&gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSXIQ09QYjy1PIUzhsSkFOBG_obtd_gWLrn9QS9wG0QRjIib1KfIIG4aAmONEALw_wcB)
 
