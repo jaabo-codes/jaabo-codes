@@ -4,7 +4,7 @@
 <p align="left"> <a href="(https://x.com/Mustajaaab)" target="blank"><img src="https://img.shields.io/twitter/follow/Mustajaaab?logo=twitter&style=for-the-badge" alt="Mustajaaab" /></a> </p>
 - 📫 How to reach me "nabi.mustajab@gmail.com"
 
-- 📄 Know about my experiences   [(https://www.linkedin.com/in/mustajab-ullah/)]
+- 📄 Know about my experiences    [(https://www.linkedin.com/in/mustajab-ullah/)]
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
